@@ -1,0 +1,6 @@
+-  Hi, I’m @LV2324-
+-  I’m interested in coding (C++)
+-  I’m currently learning C++
+- I’m looking to collaborate on github, unreal game engine
+-  How to reach me Send me a message on discord
+-  Fun fact: discord: lucutzza
